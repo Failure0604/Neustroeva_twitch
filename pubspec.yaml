@@ -1,0 +1,33 @@
+name: twitch
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/симс главная.png
+    - assets/icons/они вернутся.png
+    - assets/icons/дота главная.png
+    - assets/icons/стрим.png
+    - assets/icons/фоновый стрим.png
+    - assets/icons/отслеживать.png
+    - assets/icons/иконки справа.png
+    - assets/icons/дота2 в эфире.png
+    - assets/icons/Uniquee.png
+    - assets/icons/AMOR_ED.png
+    - assets/icons/иконки справа клипы.png
+    - assets/icons/фон клипы.png
+    - assets/icons/подложка.png

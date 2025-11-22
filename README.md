@@ -1,2 +1,3 @@
-# Neustroeva_twitch
-Приложение для "Проектирование и разработка мобильных приложений"
+# twitch
+
+A new Flutter project.
