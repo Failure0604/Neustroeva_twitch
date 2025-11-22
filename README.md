@@ -1,3 +1,2 @@
-# twitch
-
-A new Flutter project.
+# Запустите эмулятор Pixel_7 для наилучшего отображения
+# Запустите flutter run в проекте
